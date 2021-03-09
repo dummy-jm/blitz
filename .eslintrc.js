@@ -1,5 +1,5 @@
 module.exports = {
-  parser: "babel-esdsdslint",
+  parser: "babel-asdas",
   env: {
     browser: true,
     commonjs: true,
