@@ -1,5 +1,5 @@
 module.exports = {
-  parser: "babel-asdas",
+  parser: "babel-dasdsad",
   env: {
     browser: true,
     commonjs: true,
