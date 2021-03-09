@@ -2242,7 +2242,8 @@
       "profile": "https://github.com/dummy-jm",
       "contributions": [
         "doc",
-        "code"
+        "code",
+        "test"
       ]
     }
   ],
