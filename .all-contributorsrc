@@ -2234,17 +2234,6 @@
         "code",
         "doc"
       ]
-    },
-    {
-      "login": "dummy-jm",
-      "name": "dummy-jm",
-      "avatar_url": "https://avatars.githubusercontent.com/u/80328562?v=4",
-      "profile": "https://github.com/dummy-jm",
-      "contributions": [
-        "doc",
-        "code",
-        "test"
-      ]
     }
   ],
   "contributorsPerLine": 7,
